@@ -294,3 +294,4 @@ public class MainFrame extends JFrame {
         setVisible(true);
     }
 }
+//Изменение 1
