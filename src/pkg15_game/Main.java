@@ -22,5 +22,4 @@ public class Main {
         MainFrame f = new MainFrame("15", new Dimension(400, 400));
         f.init();
     }
-    
 }
